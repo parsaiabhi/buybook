@@ -1,5 +1,4 @@
 HELP.md
-.mvn
 target/
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -18,6 +17,7 @@ target/
 *.iws
 *.iml
 *.ipr
+.mvn
 
 ### NetBeans ###
 /nbproject/private/
