@@ -17,7 +17,8 @@ target/
 *.iws
 *.iml
 *.ipr
-.mvn
+*.jar
+*.properties
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
